@@ -10,4 +10,4 @@ Connected via LAN instead of WAN to act as a Access Point. DHCP is disabled.
 
 ### References
 
-1. Stock Firmware - [EU Website](https://www.tp-link.com/nordic/support/download/archer-c20/v1/#Firmware) | [Global](https://www.tp-link.com/en/support/download/archer-c20/v1/#Firmware)
+1. Stock Firmware - [EU Website](https://www.tp-link.com/nordic/support/download/archer-c20/v1/#Firmware) | [Global](https://www.tp-link.com/en/support/download/archer-c20/v1/#Firmware) (Both firmware share the same hash)
