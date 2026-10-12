@@ -4,6 +4,10 @@
 
 ## Backup Config
 
-IP is set to 192.168.1.100 and the gateway is 192.168.1.1
-The stock gateway and IP is 192.168.0.1
+IP is set to 192.168.1.100 and the gateway is 192.168.1.1 <br/>
+The stock gateway and IP is 192.168.0.1<br/>
 Connected via LAN instead of WAN to act as a Access Point. DHCP is disabled.
+
+### References
+
+1. Stock Firmware - [EU Website](https://www.tp-link.com/nordic/support/download/archer-c20/v1/#Firmware) | [Global](https://www.tp-link.com/en/support/download/archer-c20/v1/#Firmware)
