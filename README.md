@@ -3,3 +3,7 @@
 ## Stock Firmware V1_160427
 
 ## Backup Config
+
+IP is set to 192.168.1.100 and the gateway is 192.168.1.1
+The stock gateway and IP is 192.168.0.1
+Connected via LAN instead of WAN to act as a Access Point. DHCP is disabled.
